@@ -12,7 +12,7 @@ function App() {
       name: 'Cyprus',
       flag: 'https://www.countryflags.io/ny/flat/64.png',
     },
-    { name: 'Makedonia', flag: 'https://www.countryflags.io/mk/flat/64.png' },
+    { name: 'Macedonia', flag: 'https://www.countryflags.io/mk/flat/64.png' },
     {
       name: 'Madagascar',
       flag: 'https://www.countryflags.io/mg/flat/64.png',
